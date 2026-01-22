@@ -1,0 +1,4 @@
+warehouse_id,name,location,capacity
+1,WH_Cairo,Cairo,10000
+2,WH_Giza,Giza,8000
+3,WH_Alex,Alexandria,12000
