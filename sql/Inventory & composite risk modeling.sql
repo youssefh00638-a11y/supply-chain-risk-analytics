@@ -2,7 +2,7 @@
     Phase 3: Risk & Exposure Layer
    ============================================================ */
 
--- 1. Corrected Inventory Base (Live Math)
+-- 1.Inventory Base 
 CREATE OR ALTER VIEW vw_inventory_risk_base AS
 SELECT
     i.inventory_id,
@@ -78,5 +78,6 @@ JOIN vw_product_supplier_risk_agg sr ON ir.product_id = sr.product_id
 WHERE ir.is_below_reorder_level = 1
 GROUP BY p.name,p.product_id, p.sku, sr.max_delay_risk_tier;
 GO
+
 
 
