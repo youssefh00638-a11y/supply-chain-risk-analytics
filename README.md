@@ -36,6 +36,8 @@ Synthetic supply chain data covering:
 -Conducted time-series analysis to detect evolving delay patterns.
 
 -Evaluated performance across suppliers, carriers, and warehouses.
+<img width="760" height="428" alt="image" src="https://github.com/user-attachments/assets/0c71159e-6c0f-4f9e-92b9-8cf0cebd5675" />
+
 
 **Supplier Reliability & Risk Classification**
 
