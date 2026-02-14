@@ -36,7 +36,10 @@ Synthetic supply chain data covering:
 -Conducted time-series analysis to detect evolving delay patterns.
 
 -Evaluated performance across suppliers, carriers, and warehouses.
+
 <img width="760" height="428" alt="image" src="https://github.com/user-attachments/assets/0c71159e-6c0f-4f9e-92b9-8cf0cebd5675" />
+<img width="762" height="428" alt="image" src="https://github.com/user-attachments/assets/6e251f83-8a9f-4fdb-808f-ec4ab9706c0e" />
+
 
 
 **Supplier Reliability & Risk Classification**
@@ -47,6 +50,9 @@ Synthetic supply chain data covering:
 
 -Classified suppliers into Low / Medium / High risk tiers based on delivery behavior.
 
+<img width="761" height="428" alt="image" src="https://github.com/user-attachments/assets/4d050bbd-9152-4433-b3ac-e706bc0ee111" />
+
+
 **Inventory & Stockout Risk Analysis**
 
 -Identified low-stock products relative to reorder thresholds.
@@ -56,6 +62,9 @@ Synthetic supply chain data covering:
 -Mapped product dependency on suppliers.
 
 -Linked supplier delay risk directly to inventory shortage and stockout exposure.
+
+<img width="761" height="428" alt="image" src="https://github.com/user-attachments/assets/2b2c469f-e8b8-4fb8-a009-32c85aa505b3" />
+
 ### Tools
 - SQL Server (data validation, cleaning, transformations)
 - Power BI (interactive dashboards)
