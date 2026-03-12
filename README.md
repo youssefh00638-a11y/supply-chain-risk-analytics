@@ -37,8 +37,10 @@ Synthetic supply chain data covering:
 
 -Evaluated performance across suppliers, carriers, and warehouses.
 
-<img width="760" height="428" alt="image" src="https://github.com/user-attachments/assets/0c71159e-6c0f-4f9e-92b9-8cf0cebd5675" />
-<img width="762" height="428" alt="image" src="https://github.com/user-attachments/assets/6e251f83-8a9f-4fdb-808f-ec4ab9706c0e" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/515f752a-5297-412e-8623-e5c1f4d05f8c" />
+<img width="716" height="411" alt="image" src="https://github.com/user-attachments/assets/a2853d86-15f1-43c3-b048-bee92deb7fb4" />
+
+
 
 
 
@@ -50,7 +52,8 @@ Synthetic supply chain data covering:
 
 -Classified suppliers into Low / Medium / High risk tiers based on delivery behavior.
 
-<img width="761" height="428" alt="image" src="https://github.com/user-attachments/assets/4d050bbd-9152-4433-b3ac-e706bc0ee111" />
+<img width="724" height="407" alt="image" src="https://github.com/user-attachments/assets/9f6567ea-0448-4f3c-ba47-0d7a35f93b80" />
+
 
 
 **Inventory & Stockout Risk Analysis**
@@ -63,7 +66,8 @@ Synthetic supply chain data covering:
 
 -Linked supplier delay risk directly to inventory shortage and stockout exposure.
 
-<img width="761" height="428" alt="image" src="https://github.com/user-attachments/assets/2b2c469f-e8b8-4fb8-a009-32c85aa505b3" />
+<img width="724" height="408" alt="image" src="https://github.com/user-attachments/assets/27db5bfa-0e8f-4e42-8788-4001df334522" />
+
 
 ### Tools
 - SQL Server (data validation, cleaning, transformations)
